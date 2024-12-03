@@ -187,7 +187,7 @@ font-size: 20px;
 color: #242424;
 padding: 0 16px;
 }
-.about-me__links {
+.about-me__link {
   animation: fade-up 650ms 800ms backwards;
 }
 @keyframes fade-up {
